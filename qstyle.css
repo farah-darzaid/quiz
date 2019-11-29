@@ -1,0 +1,29 @@
+form {
+     margin: 10% 20%;
+    height: 200px;
+    background-color: darkgray;
+    border: 2px dashed gray;
+    padding: 5% 10%;
+}
+form input {
+
+    margin: 5% 7px;
+}
+form input[type="submit"]{
+	margin: auto 45%;
+    background: center;
+    width: 12%;
+    height: 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+pre{
+    margin: auto 20%;
+    padding: 10%;
+    font-size: 20px;
+    background-color: darkgray;
+    border: 2px dashed gray;
+    padding: 5% 10%;
+}
